@@ -16,7 +16,7 @@
 
 # Links :
 
-* Github : 
-* Github Pages : 
-* Netlify : 
-* Vercel : 
+* Github : https://github.com/Codalicio/recipe-page
+* Github Pages : https://codalicio.github.io/recipe-page/
+* Netlify : https://sparkling-meringue-477047.netlify.app/
+* Vercel : https://recipe-page-eight-lake.vercel.app/
